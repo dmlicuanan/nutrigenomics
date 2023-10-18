@@ -8,7 +8,7 @@ nutriseqs.R is an examination of available sequence data for the Slc6a family of
 - Create a reduced sequence data set such that only Actinopteri species are included
 - Create a reduced sequence data set such that only Mammalia species with sequences for all six Slc6a genes are included (serves as outgroup)
   
-
+nutrigenomics_blast.sh builds a BLAST database from the milkfish genome and queries cut Slc6a sequences against the database
 
 functions.R contains functions used in nutriseqs.R for reading and writing FASTA files
 
@@ -16,4 +16,4 @@ functions.R contains functions used in nutriseqs.R for reading and writing FASTA
 
 Author's note: 
 
-Scripts were written in November 2021. Latest code edits: 2021-12-28.
+Scripts were written in November 2021. Latest code edits: 2023-10-18.
